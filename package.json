@@ -1,0 +1,21 @@
+{
+  "name": "ethereum-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wallet.js",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.5.0",
+    "axios": "^0.26.1",
+    "ethereumjs-tx": "^2.1.1",
+    "ethereumjs-wallet": "^1.0.2",
+    "web3": "^1.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
